@@ -1,2 +1,2 @@
 # Shakesperean-Insult-Generator
-Insult generator that returns Shakesperean insults. 
+C++ insult generator that returns Shakesperean insults. 
